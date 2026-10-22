@@ -5,11 +5,10 @@
 ## 内容
 
 ```
-EFI/BOOT/
+
 ├── bootia32.efi      # 32 位 UEFI 启动入口（固件只会找它）
 ├── grubia32.efi      # 32 位 GRUB
-├── gcdia32.efi       # GRUB 显示驱动
-└── grubnetia32.efi   # GRUB 网络启动
+
 ```
 
 ## 用途
